@@ -50,7 +50,7 @@ export default function App() {
             </div>
           ))}
         </main>
-        <footer>
+        <footer className="md:mb-2">
           <div className="input flex border">
             <input
               value={input}
